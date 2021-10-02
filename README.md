@@ -1,6 +1,6 @@
 ## simple project For Practice your Html & Css skills.
 
-##### check out the DEMO !!
+#### check out the DEMO !!
  [https://wajd789.github.io/simple-web.github.io/]( https://wajd789.github.io/simple-web.github.io/)
 
 #### A simple project using (HTML, CSS), for Beginners;
